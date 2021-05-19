@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/BLE_myo_20190408.iml" filepath="$PROJECT_DIR$/BLE_myo_20190408.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HoloGraphLibrary-master/HoloGraphLibrary/BLE_myo_20190408.HoloGraphLibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/HoloGraphLibrary-master/HoloGraphLibrary/BLE_myo_20190408.HoloGraphLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/BLE_myo_20190408.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/BLE_myo_20190408.app.iml" />
+    </modules>
+  </component>
+</project>

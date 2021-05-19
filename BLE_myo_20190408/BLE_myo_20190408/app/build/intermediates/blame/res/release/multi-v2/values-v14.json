@@ -1,0 +1,39 @@
+{
+    "logs": [
+        {
+            "outputFile": "G:\\myo\\BLE_myo_20190408(1)\\BLE_myo_20190408\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "G:\\myo\\BLE_myo_20190408(1)\\BLE_myo_20190408\\HoloGraphLibrary-master\\HoloGraphLibrary\\build\\intermediates\\packaged_res\\release\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "201"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Fan\\.gradle\\caches\\transforms-2\\files-2.1\\4a0c2692b7c94b5064c7e5503ea5fcb2\\res\\values-v14\\values.xml",
+                    "from": {
+                        "startLines": "4,11,18,25,32,39,40,41,42",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "286,788,1302,1830,2356,2896,2975,3068,3159",
+                        "endLines": "8,17,24,31,38,39,40,41,42",
+                        "endColumns": "12,12,12,12,12,78,92,90,104",
+                        "endOffsets": "557,1297,1825,2351,2891,2970,3063,3154,3259"
+                    },
+                    "to": {
+                        "startLines": "5,10,17,24,31,38,39,40,41",
+                        "startColumns": "4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "206,482,996,1524,2050,2590,2669,2762,2853",
+                        "endLines": "9,16,23,30,37,38,39,40,41",
+                        "endColumns": "12,12,12,12,12,78,92,90,104",
+                        "endOffsets": "477,991,1519,2045,2585,2664,2757,2848,2953"
+                    }
+                }
+            ]
+        }
+    ]
+}

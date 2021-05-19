@@ -1,0 +1,4 @@
+#Wed May 19 22:44:40 CST 2021
+base.0=/Users/Boyu/BLE_myo_20190408/BLE_myo_20190408/app/build/intermediates/dex/debug/mergeDexDebug/out
+path.0=classes.dex
+renamed.0=classes.dex

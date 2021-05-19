@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="btn_focused">#ff0000</drawable>
+    <drawable name="btn_normal">#00ff00</drawable>
+    <color name="lightgreen">#90ee90</color><!--亮绿色 -->
+    <color name="gray">#808080</color><!--灰色 -->
+</resources>

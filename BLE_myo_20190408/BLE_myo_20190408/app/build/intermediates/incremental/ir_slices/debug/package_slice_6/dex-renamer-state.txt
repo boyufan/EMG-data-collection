@@ -1,0 +1,4 @@
+#Tue Aug 27 19:23:14 CST 2019
+base.0=G\:\\myo\\BLE_myo_20190408(1)\\BLE_myo_20190408\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

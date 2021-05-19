@@ -1,0 +1,28 @@
+{
+    "logs": [
+        {
+            "outputFile": "G:\\myo\\BLE_myo_20190408(1)\\BLE_myo_20190408\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-hdpi-v4\\values-hdpi-v4.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Fan\\.gradle\\caches\\transforms-2\\files-2.1\\4a0c2692b7c94b5064c7e5503ea5fcb2\\res\\values-hdpi-v4\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "282",
+                        "endLines": "8",
+                        "endColumns": "13",
+                        "endOffsets": "552"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "6",
+                        "endColumns": "13",
+                        "endOffsets": "325"
+                    }
+                }
+            ]
+        }
+    ]
+}

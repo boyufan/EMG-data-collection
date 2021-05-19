@@ -1,0 +1,104 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:2:1-33:12
+MERGED from [com.android.support:appcompat-v7:22.0.0] C:\Users\Fan\.gradle\caches\transforms-2\files-2.1\4a0c2692b7c94b5064c7e5503ea5fcb2\AndroidManifest.xml:17:1-24:12
+MERGED from [:HoloGraphLibrary] G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\HoloGraphLibrary-master\HoloGraphLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Fan\.gradle\caches\transforms-2\files-2.1\d609e707c00717e74ecb57cead702e70\AndroidManifest.xml:17:1-24:12
+INJECTED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:2:1-33:12
+INJECTED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:2:1-33:12
+	package
+		ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml
+		INJECTED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml
+		ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:4:5-51
+	android:versionCode
+		INJECTED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml
+		ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:2:1-33:12
+		INJECTED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.BLUETOOTH
+ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:6:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:7:5-73
+	android:name
+		ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:7:22-71
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:8:22-78
+uses-feature#android.hardware.bluetooth_le
+ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:9:5-10:35
+	android:required
+		ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:10:9-32
+	android:name
+		ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:9:19-63
+application
+ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:12:5-31:19
+MERGED from [com.android.support:appcompat-v7:22.0.0] C:\Users\Fan\.gradle\caches\transforms-2\files-2.1\4a0c2692b7c94b5064c7e5503ea5fcb2\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:22.0.0] C:\Users\Fan\.gradle\caches\transforms-2\files-2.1\4a0c2692b7c94b5064c7e5503ea5fcb2\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Fan\.gradle\caches\transforms-2\files-2.1\d609e707c00717e74ecb57cead702e70\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Fan\.gradle\caches\transforms-2\files-2.1\d609e707c00717e74ecb57cead702e70\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:15:9-41
+	android:icon
+		ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:14:9-43
+	android:allowBackup
+		ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:13:9-35
+	android:theme
+		ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:16:9-40
+	tools:replace
+		ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:17:9-37
+activity#example.naoki.Filtered_emg.MainActivity
+ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:18:9-26:20
+	android:label
+		ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:20:13-45
+	android:name
+		ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:19:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:21:13-25:29
+action#android.intent.action.MAIN
+ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:22:17-69
+	android:name
+		ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:22:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:24:17-77
+	android:name
+		ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:24:27-74
+activity#example.naoki.Filtered_emg.ListActivity
+ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:27:9-30:20
+	android:label
+		ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:29:13-56
+	android:name
+		ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml:28:13-41
+uses-sdk
+INJECTED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml
+INJECTED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:22.0.0] C:\Users\Fan\.gradle\caches\transforms-2\files-2.1\4a0c2692b7c94b5064c7e5503ea5fcb2\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:22.0.0] C:\Users\Fan\.gradle\caches\transforms-2\files-2.1\4a0c2692b7c94b5064c7e5503ea5fcb2\AndroidManifest.xml:20:5-43
+MERGED from [:HoloGraphLibrary] G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\HoloGraphLibrary-master\HoloGraphLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:HoloGraphLibrary] G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\HoloGraphLibrary-master\HoloGraphLibrary\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Fan\.gradle\caches\transforms-2\files-2.1\d609e707c00717e74ecb57cead702e70\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:22.0.0] C:\Users\Fan\.gradle\caches\transforms-2\files-2.1\d609e707c00717e74ecb57cead702e70\AndroidManifest.xml:20:5-43
+INJECTED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml
+INJECTED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml
+		ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml
+		INJECTED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml
+		ADDED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml
+		INJECTED from G:\myo\BLE_myo_20190408(1)\BLE_myo_20190408\app\src\main\AndroidManifest.xml

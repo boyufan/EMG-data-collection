@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "G:\\myo\\BLE_myo_20190408(1)\\BLE_myo_20190408\\app\\build\\intermediates\\incremental\\mergeReleaseResources\\merged.dir\\values-w600dp-v13\\values-w600dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\Fan\\.gradle\\caches\\transforms-2\\files-2.1\\4a0c2692b7c94b5064c7e5503ea5fcb2\\res\\values-w600dp-v13\\values.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "279,343",
+                        "endColumns": "63,54",
+                        "endOffsets": "338,393"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,119",
+                        "endColumns": "63,54",
+                        "endOffsets": "114,169"
+                    }
+                }
+            ]
+        }
+    ]
+}

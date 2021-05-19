@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Dec 11 09:19:27 CST 2020
+0.baseType=DIRECTORY
+0.base=/Users/Boyu/BLE_myo_20190408/BLE_myo_20190408/app/build/intermediates/dex/debug/mergeDexDebug/out
+0.path=classes.dex
+0.set=DEX
+count=1

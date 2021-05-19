@@ -1,0 +1,26 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/Boyu/BLE_myo_20190408/BLE_myo_20190408/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-xlarge-land-v4/values-xlarge-land-v4.xml",
+            "map": [
+                {
+                    "source": "/Users/Boyu/.gradle/caches/transforms-2/files-2.1/d8e898ea046472f3f71393468bcd3e48/res/values-xlarge-land-v4/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "284",
+                        "endColumns": "63",
+                        "endOffsets": "343"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "63",
+                        "endOffsets": "114"
+                    }
+                }
+            ]
+        }
+    ]
+}
